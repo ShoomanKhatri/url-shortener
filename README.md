@@ -58,7 +58,7 @@ docker-compose down
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/ghanteyyy/URL-Shortner.git
+git clone https://github.com/ShoomanKhatri/url-shortener.git
 cd URL-Shortner
 ```
 
